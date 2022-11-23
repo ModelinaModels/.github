@@ -32,7 +32,7 @@ Here are the supported libraries and variants:
 - Java
 
 ### FHIR
-[FHIR](https://www.hl7.org/fhir/overview.html) is an interoperable resource in the healthcare industry.
+[FHIR](https://www.hl7.org/fhir/overview.html) is an interoperable resource in the healthcare industry. The models generated here are for the full set of features in FHIR and include functionality to convert models to JSON.
 
 The following FHIR versions are available: `4.0`
 
